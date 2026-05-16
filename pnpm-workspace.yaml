@@ -1,4 +1,4 @@
 allowBuilds:
-  - sharp: false
+ sharp: false
 onlyBuiltDependencies:
   - sharp
